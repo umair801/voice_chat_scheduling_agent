@@ -179,7 +179,7 @@ AgAI_7_Voice_Chat_Scheduling_Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/umair801/agai7-scheduling-agent.git
+git clone https://github.com/umair801/voice_chat_scheduling_agent.git
 cd agai7-scheduling-agent
 ```
 
